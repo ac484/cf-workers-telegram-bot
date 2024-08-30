@@ -1,4 +1,4 @@
-name = "cf-workers-telegram-bot-v2"
+name = "tg-cfw-bot-v2"
 main = "packages/worker/src/worker.ts"
 
 workers_dev = true
@@ -13,7 +13,7 @@ binding = "AI"
 [[d1_databases]]
 binding = "DB"
 database_name = "llama2"
-database_id = "e24eb37b-6b13-4e84-b1af-63de0dedcc6d"
+database_id = "69f9ebfe-8256-43ae-81da-121dd8532ecb"
 
 [[r2_buckets]]
 binding = "R2"
